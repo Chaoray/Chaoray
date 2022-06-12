@@ -12,13 +12,22 @@
 - Languages I like ✅:  
 `js`  (Can do some really cool tricks)  
 `py`  (Fast coding speed)  
-`cs`  (Can do some really cool tricks)  
+`cs`  (Fast performance)  
 `ahk`  (The best on scripting 😈)  
 
 - Languages I don't like ❌:  
 `c` `cpp` (They are too old!)  
-`java`  (Damn, keeps making compile env errors!)
+`java`  (Damn, keeps making compile env errors!)  
+
+- What I wanna learn:  
+Data structure  
+Data base  
+Internet connection  
+Algrorithm that speeds up my code  
+Game cheating (really cooooool)  
 
 ### My stats
 ![Chaoray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaoray&show_icons=true&theme=default)
 (yea pretty bad cuz idk what to do)
+
+![image](https://user-images.githubusercontent.com/65358638/173213130-a8f384e7-d6df-40ac-9ef2-634c503412d0.png)
