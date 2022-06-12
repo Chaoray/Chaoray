@@ -21,7 +21,7 @@
 
 - What I wanna learn:  
 Data structure  
-Data base  
+Database  
 Internet connection  
 Algrorithm that speeds up my code  
 Game cheating (really cooooool)  
