@@ -1,6 +1,6 @@
 ### Bye there 👋
 
-- 🔭 I’m currently working on none (student btw)
+- 🔭 I’m currently working on nothing, just patching discord bots
 - 🌱 I’m currently learning how to code better, more clever and faster performance
 - 👯 I’m looking to collaborate on making discord bots (maybe)
 - 🤔 I’m looking for help with teaching me about real work experiences
