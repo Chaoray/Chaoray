@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Chaoray/Chaoray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on none (student btw)
+- 🌱 I’m currently learning how to code better, more clever and faster performance
+- 👯 I’m looking to collaborate on making discord bots (maybe)
+- 🤔 I’m looking for help with teaching me about real work experiences
+- 💬 Ask me about anything but not my personal infomation
+- 📫 How to reach me: [DC](https://discord.com/users/731018913097449533)
+- 😄 Pronouns: Call me whatever you want but not bad words
+- ⚡ Fun fact: [I like icecream](https://www.youtube.com/watch?v=rhfVXoEhd1c)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Chaoray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaoray&show_icons=true&theme=default)
+(yeah pretty bad cuz idk what to do)
