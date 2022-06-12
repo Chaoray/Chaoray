@@ -9,13 +9,13 @@
 - 😄 Pronouns: Call me whatever you want but not bad words
 - ⚡ Fun fact: [I really like icecream](https://www.youtube.com/watch?v=rhfVXoEhd1c) and [I like dancing](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- Languages I like:  
+- Languages I like ✅:  
 `js`  (Can do some really cool tricks)  
 `py`  (Fast coding speed)  
 `cs`  (Can do some really cool tricks)  
 `ahk`  (The best on scripting 😈)  
 
-- Languages I don't like:  
+- Languages I don't like ❌:  
 `c` `cpp` (They are too old!)  
 `java`  (Damn, keeps making compile env errors!)
 
