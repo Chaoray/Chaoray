@@ -1,6 +1,6 @@
 Hi.  
 Contact me: [Discord](https://discord.com/users/731018913097449533)  
-My Medium: [Link](https://medium.com/@coffeetealowteachaorayteitsuba)
+My Medium: [Link](https://medium.com/@Hyno)
 ```
 ⣿⣿⣿⣿⣿⡇⠤⠄⠳⣮⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡎⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠇⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣛⣿⣿⣿⣶⡄⠀⠀⠀⢀⣠⡤⠶⠚⢿⡦
