@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [Werewolf Bot](https://github.com/Chaoray/Werewolf-Bot)
 
-- 📝 I casually write articles on [https://chaoray.github.io/](https://chaoray.github.io/)
+- 📝 I casually write articles on [Hyno's Blog](https://chaoray.github.io/)
 
 - 💬 Ask me about **anything but personal info**
 
-- 📫 How to reach me **https://discord.com/users/731018913097449533**
+- 📫 How to reach me **[Discord](https://discord.com/users/731018913097449533)**
 
 - 📄 Know about my experiences: Not yet...
 
-- ⚡ Fun fact: **It's Better to Make Things Easier, Not Improve Yourself to Deal With Stuffs**
+- ⚡ Cogitation: **It's Better to Make Things Easier, Not Improve Yourself to Deal With Stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
