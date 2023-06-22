@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **https://discord.com/users/731018913097449533**
 
-- 📄 Know about my experiences [still preparing...](still preparing...)
+- 📄 Know about my experiences: Not yet...
 
-- ⚡ Fun fact **It's Better to Make Things Easier, Not Improve Yourself to Deal With Stuffs**
+- ⚡ Fun fact: **It's Better to Make Things Easier, Not Improve Yourself to Deal With Stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
