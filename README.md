@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences: Not yet...
 
-- ⚡ Cogitation: **It's Better to Make Things Easier, Not Improve Yourself to Deal With Stuffs**
+- ⚡ Motto: **It's Better to Make Things Easier, Not Improve Yourself to Deal With Stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
